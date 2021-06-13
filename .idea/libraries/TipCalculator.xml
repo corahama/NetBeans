@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TipCalculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TipCalculator/dist/TipCalculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

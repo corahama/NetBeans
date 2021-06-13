@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="umda.jnlp">
+  <information>
+    <title>umda</title>
+    <vendor>fernando-dlz</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="umda.jar" size="8606" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="umda.Umda"  name="umda" />
+  <update check="always"/>
+</jnlp>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="umda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/umda/dist/umda.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TipCalculator/TipCalculator.iml" filepath="$PROJECT_DIR$/TipCalculator/TipCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Welcome/Welcome.iml" filepath="$PROJECT_DIR$/Welcome/Welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema_administrativo/sistema_administrativo.iml" filepath="$PROJECT_DIR$/sistema_administrativo/sistema_administrativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umda/umda.iml" filepath="$PROJECT_DIR$/umda/umda.iml" />
+    </modules>
+  </component>
+</project>
